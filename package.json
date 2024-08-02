@@ -1,0 +1,11 @@
+{
+  "name": "iframe-embedding",
+  "version": "1.0.0",
+  "description": "A task to learn and practice embedding external content using iFrames in HTML",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
